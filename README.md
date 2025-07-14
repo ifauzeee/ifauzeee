@@ -28,8 +28,8 @@
 ## 📬 Connect with Me
 
 - 🌐 [Website](https://ifauzeee.github.io/portofolio)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 💬 [Telegram](https://t.me/yourchannel)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7))
+- 💬 [Telegram]([https://t.me/yourchannel](https://t.me/RyzeeenUniverse))
 
 ---
 
