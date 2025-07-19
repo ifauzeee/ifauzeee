@@ -1,53 +1,56 @@
-# 👋 Hi there, I'm Muhammad Ibnu Fauzi (ifauzeee)
+<!-- GitHub Profile README for Muhammad Ibnu Fauzi (ifauzeee) -->
 
-🎓 **Digital Developer** | 📊 **Data Enthusiast**  
-🚀 Passionate about building full-stack applications and turning data into meaningful insights.  
-💡 Let's collaborate and create something impactful together!
+<h1 align="center">Hi there 👋, I'm Muhammad Ibnu Fauzi</h1>
+<h3 align="center">Digital Developer | Data Enthusiast | Problem Solver</h3>
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Python` | `JavaScript` | `PHP` | `Java` | `Bash`
-
-**Web Development:**  
-`HTML5` | `Tailwind CSS` | `AJAX` | `Flask` | `WordPress`
-
-**Data & Visualization:**  
-`MySQL` | `SQLite` | `Chart.js` | `Data Analysis`
-
-**Tools & Others:**  
-`Docker` | `PM2` | `Telegram Bot API` | `RClone` | `yt-dlp`
+<p align="center">
+  <a href="https://ifauzeee.github.io/portofolio" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portofolio-green?style=flat-square&logo=github" alt="Website"/>
+  </a>
+  <a href="https://linkedin.com/in/ifauzeee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/ifauzeee" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=flat-square&logo=telegram" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **[STM Gotham System](https://github.com/ifauzeee/WebsitePPDB)**  
-🧾 Exam & registration platform — _PHP, MySQL, Tailwind CSS_
-
-🔹 **[Network Dashboard](https://github.com/ifauzeee/network-dashboard)**  
-📈 Real-time speed & geolocation monitor — _Flask, Chart.js_
-
-🔹 **[UNRF Toolkit](https://github.com/ifauzeee/Network-Resource-Fetcher)**  
-💻 Bash-based network utility toolkit for WSL — _Shell Script_
-
-🔹 **[Zee Downloader Bot](https://github.com/ifauzeee/multi-downloader-bot)**  
-📥 Telegram bot for multi-platform media downloads — _Python, yt-dlp_
-
-🔹 **[Library System](https://github.com/ifauzeee/LibraryManagementSystem)**  
-📚 Java desktop app for managing book loans — _Java Swing, MySQL_
+### 🧠 About Me
+- 🎓 Final-year student, passionate in software & network development.
+- 🔭 Currently working on: `Telegram Multi-Downloader Bot` and `STM Gotham Platform`
+- 🌱 Exploring: Docker, Next.js, Network Monitoring, AI Integrations
+- 🧩 Fun fact: I love automating workflows with Bash and Telegram Bots 😄
 
 ---
 
-## 📬 Connect with Me
+### 🛠️ Tech Stack
+```bash
+Languages    : Python, JavaScript, PHP, Java, Bash
+Web          : HTML5, Tailwind CSS, AJAX, Flask, WordPress
+Database     : MySQL, SQLite
+Tools & APIs : Docker, PM2, Telegram Bot API, RClone, yt-dlp
+Visualization: Chart.js, Data Analysis
+📌 Featured Projects
+Project	Description	Tech Stack
+🏫 STM Gotham System	Exam registration & management platform	PHP, MySQL, Tailwind
+📡 Network Dashboard	Real-time bandwidth & IP geolocation dashboard	Flask, Chart.js
+🧰 UNRF Toolkit	Bash-based network utility toolkit for WSL	Bash
+📥 Zee Downloader Bot	Multi-platform Telegram media downloader	Python, yt-dlp, API
+📚 Library System	Java desktop app for library management with login & RBAC	Java Swing, MySQL
 
-🌐 [Website / Portfolio](https://ifauzeee.github.io/portofolio/)  
-💼 [LinkedIn](https://www.linkedin.com/in/ifauzeee/)  
-💬 [Telegram](https://t.me/ifauzeee)
+📈 GitHub Stats & Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=true" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifauzeee&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=algolia&no-frame=true&row=1&column=6" /> </p>
+📊 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ifauzeee&theme=github-compact&hide_border=true" alt="Contribution Graph"/> </p>
+🙋‍♂️ Let's Connect
+🌐 Portfolio: ifauzeee.github.io/portofolio
 
----
+💼 LinkedIn: linkedin.com/in/ifauzeee
 
-_Crafted with purpose and passion._  
-**© 2025 – Muhammad Ibnu Fauzi**
+💬 Telegram: @ifauzeee
+
+<p align="center"> <i>Crafted with 💻, ☕, and open-source spirit</i><br/> <b>© 2025 – Muhammad Ibnu Fauzi</b> </p> ```
