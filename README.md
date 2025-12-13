@@ -61,9 +61,9 @@ I'm a passionate **Full Stack Developer** from Indonesia who loves building mode
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=ffffff&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=dark&hide_border=false)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ifauzeee&theme=catppuccin_latte&hide_border=true&background=ffffff)
+![Streak](https://streak-stats.demolab.com?user=ifauzeee&theme=dark&hide_border=false)
 
 </div>
 
