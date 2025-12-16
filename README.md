@@ -7,7 +7,7 @@
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ifauzeee.ifauzeee&left_color=%233B82F6&right_color=%239333ea)](https://github.com/ifauzeee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibnu-fauzi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9333ea?style=flat-square&logo=vercel&logoColor=white)](https://ifauzeee.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fauziibnu26@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ifauze343@gmail.com)
 
 </div>
 
@@ -489,7 +489,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 |:---:|:---:|
 | 💼 **LinkedIn** | [muhammad-ibnu-fauzi](https://www.linkedin.com/in/muhammad-ibnu-fauzi/) |
 | 🌐 **Portfolio** | [ifauzeee.vercel.app](https://ifauzeee.vercel.app/) |
-| 📧 **Email** | [fauziibnu26@gmail.com](mailto:fauziibnu26@gmail.com) |
+| 📧 **Email** | [ifauze343@gmail.com](mailto:ifauze343@gmail.com) |
 | 🐙 **GitHub** | [@ifauzeee](https://github.com/ifauzeee) |
 
 </div>
