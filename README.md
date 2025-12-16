@@ -182,6 +182,9 @@ A powerful, aesthetic userbot designed to enhance your Telegram experience with 
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
