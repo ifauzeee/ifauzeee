@@ -57,7 +57,7 @@ My expertise spans from crafting intuitive **React/Next.js** frontends to develo
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [⚡ Zee-Index](https://github.com/ifauzeee/Zee-Index)
 
@@ -76,7 +76,7 @@ Transform your Google Drive into a powerful streaming platform and file manageme
 **Tech:** `Next.js 14` `TanStack Query` `Redis` `Google API` `Vidstack`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [🤫 WhisperBin](https://github.com/ifauzeee/WhisperBin)
 
@@ -97,7 +97,7 @@ Share sensitive information securely with client-side encryption. Your data neve
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [🌑 September Hitam](https://github.com/ifauzeee/SeptemberHitam)
 
@@ -115,9 +115,9 @@ A visually stunning scrolling experience featuring fluid animations and a minima
 **Tech:** `Next.js 15` `React 19` `GSAP` `Lenis` `Tailwind CSS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [🎨 3D Portfolio](https://github.com/ifauzeee/my-portfolio-nextjs)
+### 🎨 3D Portfolio `Private`
 
 **Interactive Personal Website**
 
@@ -143,9 +143,9 @@ An immersive 3D portfolio featuring interactive Three.js scenes, AI chat integra
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [🚀 Zee-Mirror](https://github.com/ifauzeee/Zee-Mirror)
+### 🚀 Zee-Mirror `Private`
 
 **High-Performance Telegram Mirroring Bot**
 
@@ -162,7 +162,7 @@ Advanced file transfer automation supporting multiple protocols and cloud storag
 **Tech:** `Python` `Pyrogram` `Aria2` `qBittorrent` `MongoDB`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [⚡ Zee-UBot](https://github.com/ifauzeee/Zee-UBot)
 
@@ -183,7 +183,7 @@ A powerful, aesthetic userbot designed to enhance your Telegram experience with 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [📊 NetMon Dashboard](https://github.com/ifauzeee/network-dashboard)
 
@@ -201,9 +201,9 @@ Comprehensive network monitoring dashboard with speed testing, latency tracking,
 **Tech:** `Python` `Flask` `Speedtest-cli` `Chart.js`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [🤖 PNJ ChatBot](https://github.com/ifauzeee/PNJChatBot)
+### [🤖 PNJ ChatBot](https://github.com/pnjanonbot/PNJChatBot)
 
 **AI-Powered Educational Assistant**
 
