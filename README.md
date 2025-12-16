@@ -96,6 +96,9 @@ Share sensitive information securely with client-side encryption. Your data neve
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
