@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ifauzeee.ifauzeee&left_color=%233B82F6&right_color=%239333ea)](https://github.com/ifauzeee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibnu-fauzi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9333ea?style=flat-square&logo=vercel&logoColor=white)](https://ifauzeee.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ifauze343@gmail.com)
@@ -13,7 +12,7 @@
 
 ---
 
-## � About Me
+## 👨‍💻 About Me
 
 I'm a dedicated **Full Stack Developer** based in **Indonesia**, specializing in building modern, scalable, and performant web applications. With extensive experience across the JavaScript/TypeScript ecosystem, I focus on delivering **production-ready solutions** that combine elegant code architecture with exceptional user experiences.
 
@@ -340,7 +339,7 @@ IoT-powered campus bus tracking with real-time GPS, gas leak detection, and geof
 
 ---
 
-## � Quick Start Deployment Guides
+## 🚀 Quick Start Deployment Guides
 
 <details>
 <summary><b>📦 Deploy a Next.js Project (e.g., Zee-Index, WhisperBin)</b></summary>
