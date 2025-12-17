@@ -230,11 +230,94 @@ Intelligent Telegram bot providing academic information and assistance.
 
 ---
 
-### 💼 Business Applications
+### 💼 Business & Utility Applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [💳 Smart-POS](https://github.com/ifauzeee/Smart-POS)
+
+**Modern Point of Sale System**
+
+Complete retail management solution with inventory tracking, sales analytics, and receipt generation.
+
+**Key Features:**
+- 🛒 Product catalog management
+- 📦 Inventory tracking
+- 📊 Sales analytics dashboard
+- 🧾 Receipt generation
+- 📈 Revenue visualization
+
+**Tech:** `React` `Vite` `Styled Components` `Recharts`
+
+</td>
+<td width="50%" valign="top">
+
+### [🌦️ Weather App](https://github.com/ifauzeee/nextjs-weather-app)
+
+**Comprehensive Weather Dashboard**
+
+Beautiful weather application with real-time data, forecasts, air quality monitoring, and interactive maps.
+
+**Key Features:**
+- 🌡️ Real-time weather data
+- 📅 5-day forecast with hourly graphs
+- 🗺️ Interactive weather maps
+- 💨 Air quality index (AQI)
+- 🌓 Light/Dark mode support
+
+**Tech:** `Next.js 14` `TypeScript` `Tailwind` `Leaflet`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🎵 Spotify Analyzer](https://github.com/ifauzeee/spotify-music-analyzer-downloader)
+
+**Music Library Analytics Tool**
+
+Analyze your Spotify listening habits with comprehensive statistics, duplicate detection, and download capabilities.
+
+**Key Features:**
+- 📊 Library statistics & insights
+- 🎤 Top artists & genres analysis
+- 🔍 Duplicate track detection
+- 📥 Track downloader (FLAC/MP3)
+- 📈 Background task processing
+
+**Tech:** `Python` `Flask` `Spotipy` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+### [🚌 BIPOL](https://github.com/ifauzeee/BIPOL)
+
+**Real-Time Bus Tracking System**
+
+IoT-powered campus bus tracking with real-time GPS, gas leak detection, and geofencing alerts.
+
+**Key Features:**
+- 📍 Real-time GPS tracking
+- ⛽ Gas leak sensor monitoring
+- 🗺️ Interactive map dashboard
+- 🔔 Geofence event alerts
+- 📝 Lost & found reporting
+
+**Tech:** `Node.js` `Socket.IO` `Supabase` `Redis`
+
+</td>
+</tr>
+</table>
+
+### 📚 Legacy Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**💳 Smart-POS**](https://github.com/ifauzeee/Smart-POS) | Modern Point of Sale system with inventory management, sales analytics, and receipt generation | `React` `Vite` `Styled Components` `Recharts` |
 | [**📚 Library System**](https://github.com/ifauzeee/LibraryManagementSystem) | Desktop application for library inventory, member management, and lending operations | `Java` `Swing` `MySQL` |
 | [**🎓 Website PPDB**](https://github.com/ifauzeee/WebsitePPDB) | School admission portal with applicant registration and admin dashboard | `PHP` `MySQL` `Bootstrap` |
 
