@@ -1,10 +1,20 @@
-# Hi, I'm Zee 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Zee+%F0%9F%91%8B;Full-Stack+Developer;IoT+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<div align="center">
 
 **Full-Stack Developer** with a focus on web applications, automation tools, and IoT solutions.
 
-- 🔭 Currently working on **Next.js** & **IoT** projects
-- 🌱 Learning **Cloud Infrastructure** & **System Design**
-- 💬 Ask me about **Web Dev**, **Python**, or **Telegram Bots**
+🔭 Currently working on **Next.js** & **IoT** projects · 🌱 Learning **Cloud Infrastructure** & **System Design**
+
+</div>
 
 ---
 
