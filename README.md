@@ -1,14 +1,10 @@
 # Hi, I'm Zee 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-
 **Full-Stack Developer** with a focus on web applications, automation tools, and IoT solutions.
 
 - 🔭 Currently working on **Next.js** & **IoT** projects
 - 🌱 Learning **Cloud Infrastructure** & **System Design**
 - 💬 Ask me about **Web Dev**, **Python**, or **Telegram Bots**
-
-<br clear="right"/>
 
 ---
 
@@ -76,27 +72,27 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifauzeee&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ifauzeee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ifauzeee&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ifauzeee&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ifauzeee&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ifauzeee&theme=default&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ifauzeee&theme=tokyonight&hide_border=true" height="180" />
+  </picture>
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifauzeee&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </picture>
 </p>
 
 ---
