@@ -241,7 +241,7 @@ Explore the rest of my repositories, experiments & utilities — new tools land 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ifauzeee/ifauzeee/output/dist/github-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/ifauzeee/ifauzeee/output/github-snake-dark.svg" alt="snake" />
 </p>
 
 ---
