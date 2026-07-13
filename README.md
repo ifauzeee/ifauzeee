@@ -5,12 +5,12 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C00&height=220&section=header&text=MUHAMMAD%20IBNU%20FAUZI&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Creative%20Developer%20%26%20Systems%20Architect&descAlignY=54&descSize=20&animation=twinkling" alt="banner" />
+  <img src="assets/banner.svg" alt="Muhammad Ibnu Fauzi — Creative Developer & Systems Architect" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://ifauzeee.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-ifauzeee.vercel.app-FF5C00?style=for-the-badge" alt="portfolio"/></a>
-  <a href="https://linkedin.com/in/ifauzeee"><img src="https://img.shields.io/badge/LinkedIn-ifauzeee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7"><img src="https://img.shields.io/badge/LinkedIn-ifauzeee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://t.me/ifauzeee"><img src="https://img.shields.io/badge/Telegram-@ifauzeee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
   <a href="mailto:ifauze343@gmail.com"><img src="https://img.shields.io/badge/Email-ifauze343@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
@@ -88,7 +88,16 @@ os       : Windows + WSL2 + Linux
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,go,python,c,cpp,dart,html,css,react,nextjs,flutter,electron,tailwind,vite,nodejs,express,postgresql,mysql,sqlite,prisma,redis,socketio,docker,github,grafana,linux,raspberrypi,arduino,figma,git&perline=9" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,go,python,c,cpp,dart,html,css,react,nextjs,flutter,electron,tailwind,vite,nodejs,express,postgres,mysql,sqlite,prisma,redis,docker,github,git,linux,arduino,ubuntu,vercel,tensorflow,windows&perline=9" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge%20AI-FF5C00?style=flat" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-E6522C?style=flat&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 
 </div>
 
@@ -245,7 +254,7 @@ I'm always open to **freelance**, **open-source**, and **research** collaboratio
 **self-hosted tooling**, **Edge AI / CV**, and **realtime systems**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ifauzeee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ifauzeee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ifauzeee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifauzeee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ifauzeee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7)
 [![Telegram](https://img.shields.io/badge/Telegram-@ifauzeee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ifauzeee)
 [![Email](https://img.shields.io/badge/Email-ifauze343@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifauze343@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ifauzeee.vercel.app-FF5C00?style=for-the-badge&logo=vercel&logoColor=white)](https://ifauzeee.vercel.app)
@@ -260,3 +269,4 @@ I'm always open to **freelance**, **open-source**, and **research** collaboratio
 <sub>© 2026 Muhammad Ibnu Fauzi · Made with ☕ & curiosity</sub>
 
 </div>
+
