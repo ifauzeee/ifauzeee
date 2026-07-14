@@ -1,272 +1,156 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  OPERATOR'S LOG — Muhammad Ibnu Fauzi · building from packets → neural nets
-  ╚══════════════════════════════════════════════════════════════════════════╝
--->
+# Muhammad Ibnu Fauzi
 
-<p align="center">
-  <img src="assets/banner.svg" alt="Muhammad Ibnu Fauzi — Creative Developer & Systems Architect" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://ifauzeee.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-ifauzeee.vercel.app-FF5C00?style=for-the-badge" alt="portfolio"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7"><img src="https://img.shields.io/badge/LinkedIn-ifauzeee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://t.me/ifauzeee"><img src="https://img.shields.io/badge/Telegram-@ifauzeee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-  <a href="mailto:ifauze343@gmail.com"><img src="https://img.shields.io/badge/Email-ifauze343@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=Full-Stack+%26+Desktop+Engineering;IoT+%26+Edge+AI+Systems;Realtime+Architecture+%26+DevOps;From+network+packets+to+neural+nets" alt="typing" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ifauzeee&label=Profile%20Views&color=FF5C00&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/badge/Follow-%40ifauzeee-FF5C00?style=flat-square&logo=github" alt="follow" />
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHis-9CA3AF?style=flat-square" alt="pronouns" />
-  <img src="https://img.shields.io/badge/Location-Jakarta%2C%20ID-9CA3AF?style=flat-square" alt="location" />
-</p>
+**Full-Stack & Systems Engineer** | Building scalable web applications, desktop software, IoT systems, and edge AI solutions.
 
 ---
 
-## 👤 About Me
+## 🎯 Professional Overview
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on experience building production-grade applications across **web**, **desktop**, **mobile**, **IoT**, and **AI/ML** domains. Specialized in designing systems that are maintainable, performant, and user-focused.
 
-**Muhammad Ibnu Fauzi** — mahasiswa **Teknik Multimedia & Jaringan**, Politeknik Negeri Jakarta.  
-I operate where **web**, **desktop**, **IoT**, and **AI/ML** meet.
-
-> *"The best technology works silently in the background — but leaves a real impact.  
-> I build systems that survive: from UDP packets to inference pipelines."*
-
-- 🔭 Building **self-hosted platforms**, **Edge-AI** pipelines & **realtime** systems
-- 🌱 Exploring **computer vision**, **low-level networking** & **distributed systems**
-- 🧩 I enjoy reverse-engineering messy problems into clean, maintainable architecture
-- ⚡ Fun fact: my projects span a **Telegram bot in Go**, a **waste-bin with a brain**, and a **hi-res audio desktop app**
-
-</td>
-<td width="38%" valign="top">
-
-**📌 Now**
-```
-$ whoami --verbose
-role     : Student / Builder
-focus    : Edge AI · Realtime · Self-host
-stack    : TS · Go · Next.js · Flutter
-editor   : Neovim / VS Code
-os       : Windows + WSL2 + Linux
-```
-**🎯 Goals 2026**
-- Ship more **production-grade** self-hosted tools
-- Deepen **Edge AI / CV** on resource-limited hardware
-- Contribute to **open-source** developer tooling
-
-</td>
-  </tr>
-</table>
+**Core Competencies:**
+- Full-stack web development (Next.js, React, Node.js)
+- Desktop application architecture (Electron, Java Swing)
+- Real-time systems & WebSocket infrastructure
+- Edge AI & computer vision pipelines
+- Backend optimization & database design
+- IoT firmware & embedded systems
 
 ---
 
-## 🛠️ What I Build
+## 💼 Featured Enterprise Projects
+
+### Web & Cloud Platforms
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **[Zee-Index](https://github.com/ifauzeee/Zee-Index)** | Self-hosted Google Drive explorer with 2FA, RBAC, media streaming, and TMDB integration | Next.js 16, React 19, PostgreSQL, Redis, Docker | Production |
+| **[Point-of-Sale](https://github.com/ifauzeee/Point-of-Sale)** | Enterprise POS system with inventory management, financial reporting, multi-user auth | React, Node.js, Express, MySQL, Docker | Production |
+| **[SiKompen](https://github.com/ifauzeee/SiKompen)** | Student compensation hours digitalization platform for PNJ | Next.js 15, TypeScript, Tailwind CSS | Deployed |
+| **[Zee-Mirror](https://github.com/ifauzeee/Zee-Mirror)** | High-performance Telegram bot with mirror/leech, torrents, cloud cloning & live React dashboard | Go, React, aria2, rclone, yt-dlp, SQLite | Active |
+
+### IoT & Edge AI Systems
+
+| Project | Description | Stack | Highlights |
+|---------|-------------|-------|-----------|
+| **[VisioBIN](https://github.com/ifauzeee/VisioBIN)** | Smart waste management with Edge AI waste classification | Go, Next.js, Flutter, YOLOv8, Raspberry Pi | Real-time inference on edge hardware |
+| **[BipolTracker](https://github.com/ifauzeee/BipolTracker)** | Real-time fleet tracking for campus shuttle buses with geofencing & gas alerts | Node.js, Express, Socket.io, PWA, ESP32 | Live GPS + IoT sensors integration |
+| **[network-dashboard](https://github.com/ifauzeee/network-dashboard)** | Real-time network monitoring with bandwidth tracking, IP geolocation & CSV export | Flask, Chart.js, JavaScript | Historical data analytics |
+
+### Desktop Applications
+
+| Project | Description | Stack | Platform |
+|---------|-------------|-------|----------|
+| **[QBZ-Downloader](https://github.com/ifauzeee/QBZ-Downloader)** | Hi-Res audio downloader with metadata automation & local library management | Electron, React, TypeScript, SQLite | Windows, macOS, Linux |
+| **[LibraryManagementSystem](https://github.com/ifauzeee/LibraryManagementSystem)** | Enterprise library management with role-based access, secure auth & transaction logging | Java Swing, FlatLaf, MySQL | Cross-platform |
+| **[Zee-Cut](https://github.com/ifauzeee/Zee-Cut)** | WiFi device controller with selective throttling & diagnostics | Kotlin, Android NDK | Android |
+| **[Soterios](https://github.com/ifauzeee/Soterios)** | Desktop security suite for malware scanning & system maintenance | Electron, JavaScript | Windows, Linux |
+
+### Specialized Tools
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[WhisperBin](https://github.com/ifauzeee/WhisperBin)** | Client-side encryption with AES-GCM & SHA-256 integrity checking (zero server storage) | TypeScript, React |
+| **[tourneyradar](https://github.com/ifauzeee/tourneyradar)** | Interactive chess tournament map with FIDE rating filtering (80+ countries) | TypeScript, React |
+| **[spotify-music-analyzer-downloader](https://github.com/ifauzeee/spotify-music-analyzer-downloader)** | Spotify library analyzer for duplicate detection & track analysis | Python |
+
+---
+
+## 🛠️ Technical Skills Matrix
+
+### Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-EF4444?style=flat-square&logo=react-query&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+
+### Desktop & Mobile
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-FFD700?style=flat-square)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### IoT & Embedded
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## 📊 Key Metrics
 
 <div align="center">
 
-| Domain | What it looks like |
-| :--- | :--- |
-| **🌐 Web & Cloud** | Next.js apps, REST/WebSocket APIs, admin dashboards, CMS, streaming platforms |
-| **🖥️ Desktop** | Cross-platform Electron apps with native workflows & local-first storage |
-| **📡 IoT & Edge** | ESP32 / Raspberry Pi firmware, UDP/serial protocols, on-device AI inference |
-| **🤖 Bots & Automation** | Telegram bots (Go), task orchestration, media processing pipelines |
-| **🗄️ Data & Infra** | PostgreSQL / MySQL / SQLite, Redis caching, Docker, CI/CD, monitoring |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=github_dark&hide_border=true&title_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ifauzeee&theme=onedark&hide_border=true&date=FF5C00&fire=FF5C00&ring=FF5C00)
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## 🎓 Professional Approach
 
-<div align="center">
+### Code Philosophy
+- **Clean Architecture** - Modular, testable, maintainable systems
+- **Performance First** - Optimized algorithms and efficient resource utilization
+- **Security by Design** - Encryption, auth, and data protection built-in
+- **Scalability** - Systems designed to grow without architectural changes
+- **Documentation** - Clear code comments and comprehensive READMEs
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,go,python,c,cpp,dart,html,css,react,nextjs,flutter,electron,tailwind,vite,nodejs,express,postgres,mysql,sqlite,prisma,redis,docker,github,git,linux,arduino,ubuntu,vercel,tensorflow,windows&perline=9" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Edge%20AI-FF5C00?style=flat" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-E6522C?style=flat&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🗂️ [Zee-Index](https://github.com/ifauzeee/Zee-Index)
-*Self-Hosted Google Drive Explorer · CMS · Streaming Platform*
-
-Turn Google Drive into a pro file manager + media streamer with virtualized rendering, RBAC, 2FA, share links & TMDB metadata.
-
-`Next.js 16` · `React 19` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Zee-Mirror](https://github.com/ifauzeee/Zee-Mirror)
-*High-Performance Telegram Mirror & Leech Bot*
-
-Go binary powering mirror/leech, torrents, yt-dlp & cloud clone across 40+ providers — with a live React dashboard.
-
-`Go 1.25` · `React` · `aria2` · `rclone` · `yt-dlp` · `SQLite` · `Docker`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🗑️ [VisioBIN](https://github.com/ifauzeee/VisioBIN)
-*Edge-AI Smart Waste Management System*
-
-YOLOv8 waste classification on Raspberry Pi + ESP32 sensors, with a Go API, Next.js dashboard & Flutter app.
-
-`Go` · `Next.js` · `Flutter` · `Edge AI` · `IoT` · `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 [QBZ-Downloader](https://github.com/ifauzeee/QBZ-Downloader)
-*Hi-Res Audio Downloader & Library Manager*
-
-Cross-platform desktop app for studio-quality FLAC (24-bit/192kHz), synced lyrics, smart tagging & analytics.
-
-`Electron` · `React` · `TypeScript` · `SQLite` · `Vite`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🚌 [BIPOL Tracker](https://github.com/ifauzeee/bipol)
-*Real-Time Campus Bus Tracking System*
-
-Node.js + WebSocket + UDP IoT (ESP32/SIM808) live bus map, geofencing, gas alerts & PWA admin/driver panels.
-
-`Node.js` · `Express` · `Socket.io` · `PWA` · `IoT` · `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [Smart POS](https://github.com/ifauzeee/Point-of-Sale)
-*Modern Web Point of Sale*
-
-Full-stack POS with offline mode, multi-role auth, inventory, analytics & receipt printing.
-
-`React` · `Vite` · `Node.js` · `Express` · `MySQL` · `PWA`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎬 [Movie Stream App](https://github.com/ifauzeee/movie-stream-app)
-*Self-Hosted Movie Streaming*
-
-Next.js 16 movie catalog & player with admin panel and Prisma-backed metadata storage.
-
-`Next.js 16` · `React 19` · `Prisma` · `libSQL` · `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### ✂️ [Zee-Cut (Android)](https://github.com/ifauzeee/Zee-Cut)
-*WiFi Network Device Controller*
-
-Root Android app that scans & controls devices on your own network via a custom NDK ARP-spoof binary.
-
-`Kotlin` · `C/NDK` · `Android` · `Networking`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 [Portofolio](https://github.com/ifauzeee/Portofolio)
-*OPERATOR'S LOG — Personal Site*
-
-Hand-built, animated portfolio (GSAP/Lenis) showcasing the projects above. Live at **[ifauzeee.vercel.app](https://ifauzeee.vercel.app)**.
-
-`HTML5` · `CSS3` · `JavaScript` · `GSAP` · `Lenis`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 More on [GitHub](https://github.com/ifauzeee?tab=repositories)
-*Always shipping*
-
-Explore the rest of my repositories, experiments & utilities — new tools land regularly.
-
-`Open Source` · `Tooling` · `Experiments`
-
-</td>
-  </tr>
-</table>
+### Development Practices
+- Full-stack ownership from frontend to infrastructure
+- Containerized deployments (Docker, Kubernetes-ready)
+- Version control & branch strategies
+- Real-time system optimization
+- Cross-platform compatibility
 
 ---
 
-## 📊 GitHub Analytics
+## 🔗 Connect & Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117" height="172" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=github_dark&hide_border=true&title_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="172" />
-</p>
+I'm open to freelance projects, open-source contributions, and technology partnerships.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ifauzeee&theme=onedark&hide_border=true&date=FF5C00&fire=FF5C00&ring=FF5C00&currStreakLabel=FF5C00&sideLabels=FF5C00" height="172" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=onedark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&column=3&margin-w=12" height="172" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifauzeee&theme=react-dark&color=FF5C00&line=FF5C00&point=FF5C00&area=true&bg_color=0d1117&hide_border=true" width="98%" alt="activity graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ifauzeee/ifauzeee/output/github-snake-dark.svg" alt="snake" />
-</p>
-
----
-
-## 🤝 Let's Collaborate
-
-<div align="center">
-
-I'm always open to **freelance**, **open-source**, and **research** collaborations — especially around  
-**self-hosted tooling**, **Edge AI / CV**, and **realtime systems**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-ifauzeee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ifauzeee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ifauzeee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7)
-[![Telegram](https://img.shields.io/badge/Telegram-@ifauzeee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ifauzeee)
+[![GitHub](https://img.shields.io/badge/GitHub-ifauzeee-181717?style=for-the-badge&logo=github)](https://github.com/ifauzeee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ibnu%20Fauzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7)
 [![Email](https://img.shields.io/badge/Email-ifauze343@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifauze343@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ifauzeee.vercel.app-FF5C00?style=for-the-badge&logo=vercel&logoColor=white)](https://ifauzeee.vercel.app)
-
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-@ifauzeee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ifauzeee)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ifauzeee.vercel.app-FF5C00?style=for-the-badge)](https://ifauzeee.vercel.app)
 
 ---
 
 <div align="center">
 
-<sub>⚡ <em>OPERATOR'S LOG — built by hand, not by prompt.</em></sub><br/>
-<sub>© 2026 Muhammad Ibnu Fauzi · Made with ☕ & curiosity</sub>
+**💼 Building production-grade systems that solve real problems**
+
+*Open for enterprise projects, open-source collaboration, and technical partnerships*
 
 </div>
-
