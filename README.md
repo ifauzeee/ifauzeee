@@ -105,11 +105,15 @@ Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on 
 
 ## 📊 GitHub Analytics
 
+> 🛠️ **Self-hosted stats** — the cards below use a private `github-readme-stats` instance to avoid the public rate-limit (`503`). Deploy your own in 2 minutes: fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), set a `PAT_1` env var to a GitHub token, and update the domain below if yours differs.
+>
+> [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&line_height=27)
+![GitHub Stats](https://readme-stats-ifauzeee.vercel.app/api?username=ifauzeee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&line_height=27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=github_dark&hide_border=true&title_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&langs_count=10)
+![Top Languages](https://readme-stats-ifauzeee.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=github_dark&hide_border=true&title_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&langs_count=10)
 
 </div>
 
