@@ -121,7 +121,7 @@ Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on 
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=onedark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&column=3&margin-w=15&margin-h=15)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifauzeee&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF5C00&line=FF5C00&point=c9d1d9&area=true&area_color=0d1117)
 
 </div>
 
