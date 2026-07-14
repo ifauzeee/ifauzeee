@@ -103,15 +103,25 @@ Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on 
 
 ---
 
-## 📊 Key Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&line_height=27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=github_dark&hide_border=true&title_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=github_dark&hide_border=true&title_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&langs_count=10)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ifauzeee&theme=onedark&hide_border=true&date=FF5C00&fire=FF5C00&ring=FF5C00)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ifauzeee&theme=onedark&hide_border=true&date=FF5C00&fire=FF5C00&ring=FF5C00&currStreakLabel=FF5C00)
+
+</div>
+
+<div align="center">
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=onedark&hide_border=true&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9&bg_color=0d1117&column=3&margin-w=15&margin-h=15)
 
 </div>
 
