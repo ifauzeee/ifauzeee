@@ -67,12 +67,6 @@ Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ifauzeee&theme=onedark&hide_border=true&date=FF5C00&fire=FF5C00&ring=FF5C00&currStreakLabel=FF5C00)
-
-</div>
-
-<div align="center">
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifauzeee&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF5C00&line=FF5C00&point=c9d1d9&area=true&area_color=0d1117)
 
 </div>
