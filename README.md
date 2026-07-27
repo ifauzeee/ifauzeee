@@ -16,46 +16,6 @@ Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on 
 - Backend optimization & database design
 - IoT firmware & embedded systems
 
----
-
-## 💼 Featured Enterprise Projects
-
-### Web & Cloud Platforms
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **[Zee-Index](https://github.com/ifauzeee/Zee-Index)** | Self-hosted Google Drive explorer with 2FA, RBAC, media streaming, and TMDB integration | Next.js 16, React 19, PostgreSQL, Redis, Docker | Production |
-| **[Point-of-Sale](https://github.com/ifauzeee/Point-of-Sale)** | Enterprise POS system with inventory management, financial reporting, multi-user auth | React, Node.js, Express, MySQL, Docker | Production |
-| **[SiKompen](https://github.com/ifauzeee/SiKompen)** | Student compensation hours digitalization platform for PNJ | Next.js 15, TypeScript, Tailwind CSS | Deployed |
-| **[Zee-Mirror](https://github.com/ifauzeee/Zee-Mirror)** | High-performance Telegram bot with mirror/leech, torrents, cloud cloning & live React dashboard | Go, React, aria2, rclone, yt-dlp, SQLite | Active |
-
-### IoT & Edge AI Systems
-
-| Project | Description | Stack | Highlights |
-|---------|-------------|-------|-----------|
-| **[VisioBIN](https://github.com/ifauzeee/VisioBIN)** | Smart waste management with Edge AI waste classification | Go, Next.js, Flutter, YOLOv8, Raspberry Pi | Real-time inference on edge hardware |
-| **[BipolTracker](https://github.com/ifauzeee/BipolTracker)** | Real-time fleet tracking for campus shuttle buses with geofencing & gas alerts | Node.js, Express, Socket.io, PWA, ESP32 | Live GPS + IoT sensors integration |
-| **[network-dashboard](https://github.com/ifauzeee/network-dashboard)** | Real-time network monitoring with bandwidth tracking, IP geolocation & CSV export | Flask, Chart.js, JavaScript | Historical data analytics |
-
-### Desktop Applications
-
-| Project | Description | Stack | Platform |
-|---------|-------------|-------|----------|
-| **[QBZ-Downloader](https://github.com/ifauzeee/QBZ-Downloader)** | Hi-Res audio downloader with metadata automation & local library management | Electron, React, TypeScript, SQLite | Windows, macOS, Linux |
-| **[LibraryManagementSystem](https://github.com/ifauzeee/LibraryManagementSystem)** | Enterprise library management with role-based access, secure auth & transaction logging | Java Swing, FlatLaf, MySQL | Cross-platform |
-| **[Zee-Cut](https://github.com/ifauzeee/Zee-Cut)** | WiFi device controller with selective throttling & diagnostics | Kotlin, Android NDK | Android |
-| **[Soterios](https://github.com/ifauzeee/Soterios)** | Desktop security suite for malware scanning & system maintenance | Electron, JavaScript | Windows, Linux |
-
-### Specialized Tools
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[WhisperBin](https://github.com/ifauzeee/WhisperBin)** | Client-side encryption with AES-GCM & SHA-256 integrity checking (zero server storage) | TypeScript, React |
-| **[tourneyradar](https://github.com/ifauzeee/tourneyradar)** | Interactive chess tournament map with FIDE rating filtering (80+ countries) | TypeScript, React |
-| **[spotify-music-analyzer-downloader](https://github.com/ifauzeee/spotify-music-analyzer-downloader)** | Spotify library analyzer for duplicate detection & track analysis | Python |
-
----
-
 ## 🛠️ Technical Skills Matrix
 
 ### Frontend Development
