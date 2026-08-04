@@ -1,99 +1,127 @@
-# Muhammad Ibnu Fauzi
+<div align="center">
 
-**Full-Stack & Systems Engineer** | Building scalable web applications, desktop software, IoT systems, and edge AI solutions.
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Muhammad+Ibnu+Fauzi;Full-Stack+%26+Systems+Engineer;Web+%7C+Desktop+%7C+IoT+%7C+Edge+AI" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ifauzeee&color=FF5C00&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ifauzeee?style=flat-square&color=FF5C00&label=Followers)](https://github.com/ifauzeee)
+[![GitHub Stars](https://img.shields.io/github/stars/ifauzeee?style=flat-square&color=FF5C00&label=Stars)](https://github.com/ifauzeee)
+
+</div>
 
 ---
 
-## 🎯 Professional Overview
+## 🎯 Tentang Saya
 
-Teknik Multimedia & Jaringan student at Politeknik Negeri Jakarta with hands-on experience building production-grade applications across **web**, **desktop**, **mobile**, **IoT**, and **AI/ML** domains. Specialized in designing systems that are maintainable, performant, and user-focused.
+Mahasiswa **Teknik Multimedia & Jaringan** di **Politeknik Negeri Jakarta** dengan pengalaman langsung membangun aplikasi production-grade lintas domain **web**, **desktop**, **mobile**, **IoT**, dan **AI/ML**. Fokus pada perancangan sistem yang maintainable, performant, dan berorientasi pengguna.
 
-**Core Competencies:**
-- Full-stack web development (Next.js, React, Node.js)
-- Desktop application architecture (Electron, Java Swing)
-- Real-time systems & WebSocket infrastructure
-- Edge AI & computer vision pipelines
-- Backend optimization & database design
-- IoT firmware & embedded systems
+```yaml
+Nama       : Muhammad Ibnu Fauzi
+Peran      : Full-Stack & Systems Engineer
+Lokasi     : Indonesia
+Fokus      : Scalable Web Apps, Desktop Software, IoT, Edge AI
+Status     : Terbuka untuk proyek freelance & kolaborasi open-source
+```
 
-## 🛠️ Technical Skills Matrix
+**Kompetensi Inti:**
+- 🌐 Full-stack web development (Next.js, React, Node.js)
+- 🖥️ Arsitektur aplikasi desktop (Electron, Java Swing)
+- ⚡ Sistem real-time & infrastruktur WebSocket
+- 🤖 Edge AI & computer vision pipeline
+- 🗄️ Optimasi backend & desain database
+- 📡 Firmware IoT & sistem embedded
 
-### Frontend Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-EF4444?style=flat-square&logo=react-query&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
 
 ### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,go,express,python,rust" />
 
 ### Desktop & Mobile
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=electron,java,kotlin,flutter" />
 
-### Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+### Database & Data
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,prisma" />
 
-### AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
-![Edge AI](https://img.shields.io/badge/Edge%20AI-FFD700?style=flat-square)
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,py" />
 
 ### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,supabase,kubernetes" />
 
 ### IoT & Embedded
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifauzeee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF5C00&text_color=c9d1d9" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ifauzeee&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF5C00&line=FF5C00&point=c9d1d9&area=true&area_color=0d1117)
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ifauzeee&theme=radical&hide_border=true&background=0d1117&ring=FF5C00&fire=FF5C00&currStreakLabel=FF5C00" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifauzeee&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF5C00&line=FF5C00&point=c9d1d9&area=true&area_color=0d1117" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 ---
 
-## 🎓 Professional Approach
+## 🐍 Contribution Snake
 
-### Code Philosophy
-- **Clean Architecture** - Modular, testable, maintainable systems
-- **Performance First** - Optimized algorithms and efficient resource utilization
-- **Security by Design** - Encryption, auth, and data protection built-in
-- **Scalability** - Systems designed to grow without architectural changes
-- **Documentation** - Clear code comments and comprehensive READMEs
+<div align="center">
+<img src="https://raw.githubusercontent.com/ifauzeee/ifauzeee/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-### Development Practices
-- Full-stack ownership from frontend to infrastructure
-- Containerized deployments (Docker, Kubernetes-ready)
-- Version control & branch strategies
-- Real-time system optimization
-- Cross-platform compatibility
+> Komponen ini butuh workflow GitHub Actions terpisah (`platane/snk`) yang menghasilkan file SVG snake secara otomatis dari grafik kontribusi Anda. Lihat bagian **Setup** di bawah.
 
 ---
 
-## 🔗 Connect & Collaborate
+## 🎓 Pendekatan Profesional
 
-I'm open to freelance projects, open-source contributions, and technology partnerships.
+**Filosofi Kode**
+- Clean Architecture — sistem modular, testable, maintainable
+- Performance First — algoritma efisien & pemakaian resource optimal
+- Security by Design — enkripsi, auth, dan proteksi data sejak awal
+- Scalability — sistem dirancang tumbuh tanpa perombakan arsitektur
+- Documentation — komentar kode jelas & README komprehensif
+
+**Praktik Pengembangan**
+- Full-stack ownership dari frontend hingga infrastruktur
+- Deployment terkontainerisasi (Docker, siap Kubernetes)
+- Strategi version control & branching
+- Optimasi sistem real-time
+- Kompatibilitas cross-platform
+
+---
+
+## 🔗 Terhubung & Berkolaborasi
+
+Terbuka untuk proyek freelance, kontribusi open-source, dan kemitraan teknologi.
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ifauzeee-181717?style=for-the-badge&logo=github)](https://github.com/ifauzeee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ibnu%20Fauzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibnu-fauzi-66842a2a7)
@@ -101,12 +129,18 @@ I'm open to freelance projects, open-source contributions, and technology partne
 [![Telegram](https://img.shields.io/badge/Telegram-@ifauzeee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ifauzeee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ifauzeee.vercel.app-FF5C00?style=for-the-badge)](https://ifauzeee.vercel.app)
 
+</div>
+
 ---
 
 <div align="center">
 
-**💼 Building production-grade systems that solve real problems**
+**💼 Membangun sistem production-grade yang menyelesaikan masalah nyata**
 
-*Open for enterprise projects, open-source collaboration, and technical partnerships*
+*Terbuka untuk proyek enterprise, kolaborasi open-source, dan kemitraan teknis*
+
+<br/>
+
+![Snake animation placeholder](https://capsule-render.vercel.app/api?type=waving&color=FF5C00&height=100&section=footer)
 
 </div>
