@@ -65,7 +65,185 @@ Status     : Terbuka untuk proyek freelance & kolaborasi open-source
 
 ---
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🌐 Web Applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [QBZ-Downloader](https://github.com/ifauzeee/QBZ-Downloader) ⭐ 47
+> Desktop-first Qobuz downloader for Hi-Res audio, metadata automation, and local library management.
+
+`TypeScript` `Electron` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+#### [Zee-Index](https://github.com/ifauzeee/Zee-Index) ⭐ 15
+> Self-hosted Google Drive explorer & media streaming platform with video player, 2FA, multi-language support, and modern UI.
+
+`Next.js 14` `TypeScript` `Redis` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [SiKompen](https://github.com/ifauzeee/SiKompen)
+> Sistem Kompensasi Mahasiswa PNJ — digitalisasi pengelolaan jam kompensasi mahasiswa Politeknik Negeri Jakarta.
+
+`Next.js 15` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+#### [Point-of-Sale](https://github.com/ifauzeee/Point-of-Sale)
+> Modern Web-Based POS for SMEs — inventory management, financial reporting (P&L), multi-user support.
+
+`React` `Node.js` `Express` `MySQL` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [BipolTracker](https://github.com/ifauzeee/BipolTracker)
+> Aplikasi web real-time untuk melacak lokasi armada bus BIPOL (shuttle PNJ) dengan peta interaktif, ETA halte, dan peringatan gas berbahaya.
+
+`HTML` `JavaScript` `Real-time`
+
+</td>
+<td width="50%" valign="top">
+
+#### [WhisperBin](https://github.com/ifauzeee/WhisperBin) ⭐ 1
+> 100% client-side encrypted file & text sharing. AES-GCM encryption, SHA-256 integrity checker. Data never leaves your device.
+
+`TypeScript` `AES-GCM` `Client-side`
+
+</td>
+</tr>
+</table>
+
+### 🖥️ Desktop & System Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Zee-Cut](https://github.com/ifauzeee/Zee-Cut)
+> Advanced Windows WiFi device controller — scanning, selective throttling, safe-list protection, diagnostics export.
+
+`Kotlin` `Windows`
+
+</td>
+<td width="50%" valign="top">
+
+#### [LibraryManagementSystem](https://github.com/ifauzeee/LibraryManagementSystem)
+> Modern Java desktop app for managing books, borrowers, and loan transactions with RBAC.
+
+`Java Swing` `FlatLaf` `MySQL`
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI, IoT & Embedded
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [VisioBIN](https://github.com/ifauzeee/VisioBIN)
+> Smart Waste Management System berbasis Edge AI (YOLOv5) dan Multi-Sensor, terintegrasi dengan Web Dashboard & Mobile App.
+
+`YOLOv5` `Edge AI` `Next.js` `Flutter` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+#### [network-dashboard](https://github.com/ifauzeee/network-dashboard)
+> Real-time network monitoring dashboard — live bandwidth tracking, speed testing, IP geolocation maps, CSV export.
+
+`Flask` `Chart.js` `Python`
+
+</td>
+</tr>
+</table>
+
+### 🤖 Bots & Automation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Zee-Mirror](https://github.com/ifauzeee/Zee-Mirror)
+> All-in-one Telegram bot — mirroring, leeching, torrent downloads, cloud cloning, media processing, React dashboard.
+
+`Go` `React` `Telegram Bot`
+
+</td>
+<td width="50%" valign="top">
+
+#### [Zee-Bot](https://github.com/ifauzeee/Zee-Bot)
+> Modular Telegram bot — scalable architecture, database support, Docker-ready deployment.
+
+`Go` `Docker` `Telegram Bot`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [spotify-music-analyzer-downloader](https://github.com/ifauzeee/spotify-music-analyzer-downloader) ⭐ 1
+> Analyze Spotify liked tracks for duplicates/similarities & optionally download tracks.
+
+`Python` `Spotify API`
+
+</td>
+<td width="50%" valign="top">
+
+#### [nextjs-weather-app](https://github.com/ifauzeee/nextjs-weather-app)
+> Aplikasi prakiraan cuaca modern — peta interaktif, geolokasi, pencarian kota, grafik data.
+
+`Next.js` `TypeScript` `Leaflet` `Framer Motion`
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/ifauzeee?tab=repositories"><strong>Lihat Semua Repositori →</strong></a></p>
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<div align="center">
+
+🔄 **Currently Working On:**
+- 🎵 **QBZ-Downloader** — actively maintained, last updated today
+- 🔄 **synctracks** — new Python project (July 2026)
+- 📊 **Zee-Index** — ongoing feature development
+
+🆕 **Latest Repositories:**
+- `synctracks` — Python (Jul 2026)
+- `Zee-Cut` — Kotlin WiFi controller (Mar 2026)
+- `VisioBIN` — Edge AI waste management (Apr 2026)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
+
+<div align="center">
+
+> **16 repositories** · **64 stars** · **7 languages** · Active since 2024
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ifauzeee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF5C00&icon_color=FF5C00&text_color=c9d1d9" />
@@ -85,6 +263,46 @@ Status     : Terbuka untuk proyek freelance & kolaborasi open-source
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ifauzeee&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</div>
+
+---
+
+## 🌐 Languages & Expertise
+
+<div align="center">
+
+| Language | Repositories | Focus Areas |
+|----------|:------------:|-------------|
+| **TypeScript** | 5 | Full-stack web, desktop apps, APIs |
+| **JavaScript** | 3 | Web dashboards, real-time systems |
+| **Python** | 2 | AI/ML, data analysis, automation |
+| **Go** | 2 | Telegram bots, backend services |
+| **Kotlin** | 1 | Desktop tools, Windows utilities |
+| **Java** | 1 | Desktop applications, Swing UI |
+
+> TypeScript & JavaScript sebagai foundation, dengan kemampuan multibahasa untuk memilih tools terbaik sesuai problem domain.
+
+</div>
+
+---
+
+## 🏅 Achievements & Contributions
+
+<div align="center">
+
+🎓 **Education**
+- Politeknik Negeri Jakarta — Teknik Multimedia & Jaringan
+
+🌟 **Notable Projects**
+- 🥇 **QBZ-Downloader** — 47+ stars, most starred repository
+- 🔒 **WhisperBin** — client-side encryption tool, featured for security-first approach
+- 🧠 **VisioBIN** — Edge AI prototype for smart city waste management
+
+💡 **Open Source**
+- 16 public repositories on GitHub
+- Active contributor since April 2024
+- Projects spanning 7 programming languages
+
 </div>
 
 ---
